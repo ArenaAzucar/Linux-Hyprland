@@ -1,0 +1,1508 @@
+
+Mar 14 01:10 : exception: Failed to commit /home/Azucar/.mpd/state: File exists
+Mar 14 01:10 : state_file: Saving state file /home/Azucar/.mpd/state
+Mar 14 01:10 : state_file: Saving state file /home/Azucar/.mpd/state
+Mar 14 01:10 : exception: Failed to commit /home/Azucar/.mpd/state: File exists
+Mar 14 01:10 : state_file: Saving state file /home/Azucar/.mpd/state
+Mar 14 01:21 : update: removing M500003XAfN21gC0UX.mp3
+Mar 14 01:21 : update: added /花海 - 周杰伦.mp3
+Mar 14 01:30 : config: option 'path' on line 30 was not recognized
+Mar 14 01:53 : config: option 'path' on line 30 was not recognized
+Mar 14 02:14 : update: added /F000002BRgtg2h1LSD.flac
+Mar 14 02:14 : player: played "花海 - 周杰伦.mp3"
+Mar 14 02:14 : update: removing F000002BRgtg2h1LSD.flac
+Mar 14 02:14 : update: added /你听得到.flac
+Mar 14 02:18 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 02:18 : player: played "你听得到.flac"
+Mar 14 02:40 : player: played "你听得到.flac"
+Mar 14 02:41 : player: played "花海 - 周杰伦.mp3"
+Mar 14 02:44 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 02:45 : player: played "你听得到.flac"
+Mar 14 02:49 : update: added /退后-周杰伦.flac
+Mar 14 02:53 : player: played "退后-周杰伦.flac"
+Mar 14 02:55 : update: added /ÖÜ½ÜÂ×-°µH.mp3
+Mar 14 02:55 : update: added /ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3
+Mar 14 03:01 : player: played "花海 - 周杰伦.mp3"
+Mar 14 03:02 : player: played "退后-周杰伦.flac"
+Mar 14 03:02 : config: option 'path' on line 30 was not recognized
+Mar 14 03:04 : exception: Failed to open audio output
+Mar 14 03:09 : player: played "花海 - 周杰伦.mp3"
+Mar 14 03:14 : player: played "退后-周杰伦.flac"
+Mar 14 03:18 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 03:22 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 03:26 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 03:26 : player: played "你听得到.flac"
+Mar 14 03:30 : player: played "花海 - 周杰伦.mp3"
+Mar 14 03:31 : update: added /ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 03:36 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 03:39 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 03:40 : player: played "你听得到.flac"
+Mar 14 03:44 : player: played "花海 - 周杰伦.mp3"
+Mar 14 03:48 : player: played "退后-周杰伦.flac"
+Mar 14 03:52 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 04:00 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 04:09 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 04:09 : player: played "你听得到.flac"
+Mar 14 04:14 : player: played "花海 - 周杰伦.mp3"
+Mar 14 04:19 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 04:24 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 04:29 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 04:32 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 04:33 : player: played "你听得到.flac"
+Mar 14 04:37 : player: played "花海 - 周杰伦.mp3"
+Mar 14 04:41 : player: played "退后-周杰伦.flac"
+Mar 14 04:47 : player: played "退后-周杰伦.flac"
+Mar 14 04:51 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 04:55 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 05:00 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 05:05 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 05:05 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 05:07 : player: played "花海 - 周杰伦.mp3"
+Mar 14 05:11 : player: played "退后-周杰伦.flac"
+Mar 14 05:11 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 05:14 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 05:15 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 05:19 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 05:24 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 05:28 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 05:33 : player: played "退后-周杰伦.flac"
+Mar 14 05:37 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 05:41 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 05:46 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 05:50 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 05:50 : player: played "你听得到.flac"
+Mar 14 05:55 : player: played "花海 - 周杰伦.mp3"
+Mar 14 05:59 : player: played "退后-周杰伦.flac"
+Mar 14 06:03 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 06:05 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 14 06:08 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 06:09 : player: played "你听得到.flac"
+Mar 14 06:13 : player: played "花海 - 周杰伦.mp3"
+Mar 14 06:17 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 14 06:17 : player: played "退后-周杰伦.flac"
+Mar 14 06:21 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 06:26 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 06:31 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 06:35 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 06:35 : player: played "你听得到.flac"
+Mar 14 06:39 : player: played "花海 - 周杰伦.mp3"
+Mar 14 06:42 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 06:43 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:43 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:43 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:44 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:45 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:45 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:45 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:45 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 06:50 : player: played "退后-周杰伦.flac"
+Mar 14 06:53 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 06:58 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 07:03 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 07:06 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 14 07:11 : player: played "花海 - 周杰伦.mp3"
+Mar 14 07:15 : player: played "退后-周杰伦.flac"
+Mar 14 07:19 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 07:19 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 07:22 : config: option 'path' on line 30 was not recognized
+Mar 14 07:22 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 07:22 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 07:23 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 14 07:27 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 07:31 : player: played "花海 - 周杰伦.mp3"
+Mar 14 07:36 : player: played "退后-周杰伦.flac"
+Mar 14 07:39 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 07:44 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 07:49 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 07:53 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 07:53 : player: played "你听得到.flac"
+Mar 14 07:57 : player: played "花海 - 周杰伦.mp3"
+Mar 14 08:02 : player: played "退后-周杰伦.flac"
+Mar 14 08:07 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 08:11 : player: played "花海 - 周杰伦.mp3"
+Mar 14 08:15 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 08:15 : player: played "你听得到.flac"
+Mar 14 08:19 : player: played "退后-周杰伦.flac"
+Mar 14 08:24 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 08:29 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 08:33 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 08:37 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 08:41 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 08:41 : player: played "你听得到.flac"
+Mar 14 08:46 : player: played "退后-周杰伦.flac"
+Mar 14 08:51 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 08:55 : player: played "花海 - 周杰伦.mp3"
+Mar 14 09:01 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 09:01 : player: played "你听得到.flac"
+Mar 14 09:06 : player: played "花海 - 周杰伦.mp3"
+Mar 14 09:09 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 09:10 : player: played "你听得到.flac"
+Mar 14 09:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 09:14 : player: played "你听得到.flac"
+Mar 14 09:23 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 09:23 : player: played "你听得到.flac"
+Mar 14 09:39 : player: played "花海 - 周杰伦.mp3"
+Mar 14 09:44 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 09:48 : player: played "花海 - 周杰伦.mp3"
+Mar 14 09:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 09:54 : player: played "你听得到.flac"
+Mar 14 10:02 : player: played "退后-周杰伦.flac"
+Mar 14 10:06 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 10:07 : player: played "你听得到.flac"
+Mar 14 10:12 : player: played "花海 - 周杰伦.mp3"
+Mar 14 10:16 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 10:21 : player: played "花海 - 周杰伦.mp3"
+Mar 14 10:26 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 10:30 : player: played "花海 - 周杰伦.mp3"
+Mar 14 10:34 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 10:39 : player: played "退后-周杰伦.flac"
+Mar 14 10:42 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 10:43 : player: played "你听得到.flac"
+Mar 14 10:48 : player: played "花海 - 周杰伦.mp3"
+Mar 14 10:52 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 11:00 : player: played "花海 - 周杰伦.mp3"
+Mar 14 11:04 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 11:04 : player: played "你听得到.flac"
+Mar 14 11:09 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 11:13 : player: played "退后-周杰伦.flac"
+Mar 14 11:17 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 11:21 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 11:27 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 11:27 : player: played "你听得到.flac"
+Mar 14 11:32 : player: played "花海 - 周杰伦.mp3"
+Mar 14 11:36 : player: played "退后-周杰伦.flac"
+Mar 14 11:40 : player: played "花海 - 周杰伦.mp3"
+Mar 14 11:44 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 11:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 11:48 : player: played "你听得到.flac"
+Mar 14 11:53 : player: played "花海 - 周杰伦.mp3"
+Mar 14 12:01 : player: played "花海 - 周杰伦.mp3"
+Mar 14 12:06 : player: played "退后-周杰伦.flac"
+Mar 14 12:09 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 12:10 : player: played "你听得到.flac"
+Mar 14 12:14 : player: played "退后-周杰伦.flac"
+Mar 14 12:23 : player: played "花海 - 周杰伦.mp3"
+Mar 14 12:28 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 12:31 : update: added /ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:31 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 12:40 : player: played "退后-周杰伦.flac"
+Mar 14 12:46 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 12:46 : update: added /ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3
+Mar 14 12:46 : update: added /ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3
+Mar 14 12:46 : update: added /ÖÜ½ÜÂ×-±¾²Ý¸ÙÄ¿ mp3ÒôÀÖ¸èÇúÃâ·ÑÏÂÔØ.mp3
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶ÎÒ²»Åä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-ÒÔfÖ®m.mp3
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶Ë«µ¶¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:51 : update: updating /ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-ÒÔfÖ®m (1).mp3
+Mar 14 12:51 : update: added /ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:52 : update: removing ÖÜ½ÜÂ×-±¾²Ý¸ÙÄ¿ mp3ÒôÀÖ¸èÇúÃâ·ÑÏÂÔØ.mp3
+Mar 14 12:53 : update: removing ÖÜ½ÜÂ×-¡¶ÎÒ²»Åä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:54 : update: removing ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 12:54 : player: played "ÖÜ½ÜÂ×-ÒÔfÖ®m.mp3"
+Mar 14 12:55 : update: removing ÖÜ½ÜÂ×-ÒÔfÖ®m (1).mp3
+Mar 14 12:59 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 13:02 : update: added /ÖÜ½ÜÂ×-¡¶ºì³¾¿ÍÕ»¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 13:02 : update: added /ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 13:02 : update: added /ÖÜ½ÜÂ×_ÁºÐÄÒÃ-¡¶Éºº÷º£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 14 13:13 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 13:18 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 13:23 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 13:29 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 13:36 : player: played "退后-周杰伦.flac"
+Mar 14 13:40 : player: played "ÖÜ½ÜÂ×_ÁºÐÄÒÃ-¡¶Éºº÷º£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 13:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 13:54 : player: played "你听得到.flac"
+Mar 14 13:55 : exception: Not playing
+Mar 14 13:59 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 14 14:08 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 14 14:14 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 22:18 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 22:23 : player: played "ÖÜ½ÜÂ×_ÁºÐÄÒÃ-¡¶Éºº÷º£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 22:35 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 22:38 : player: played "退后-周杰伦.flac"
+Mar 14 22:39 : config: option 'path' on line 33 was not recognized
+Mar 14 22:47 : player: played "花海 - 周杰伦.mp3"
+Mar 14 22:59 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 14 23:05 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 23:07 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 14 23:07 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 23:08 : config: option 'path' on line 33 was not recognized
+Mar 14 23:15 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 14 23:15 : player: played "你听得到.flac"
+Mar 14 23:22 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 14 23:24 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 23:27 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 14 23:31 : player: played "退后-周杰伦.flac"
+Mar 14 23:33 : player: played "退后-周杰伦.flac"
+Mar 14 23:34 : player: played "退后-周杰伦.flac"
+Mar 14 23:38 : player: played "退后-周杰伦.flac"
+Mar 14 23:42 : player: played "退后-周杰伦.flac"
+Mar 14 23:47 : player: played "退后-周杰伦.flac"
+Mar 14 23:51 : player: played "退后-周杰伦.flac"
+Mar 14 23:55 : player: played "退后-周杰伦.flac"
+Mar 15 00:00 : player: played "退后-周杰伦.flac"
+Mar 15 00:04 : player: played "退后-周杰伦.flac"
+Mar 15 00:08 : player: played "退后-周杰伦.flac"
+Mar 15 00:13 : player: played "退后-周杰伦.flac"
+Mar 15 00:17 : player: played "退后-周杰伦.flac"
+Mar 15 00:21 : player: played "退后-周杰伦.flac"
+Mar 15 00:26 : player: played "退后-周杰伦.flac"
+Mar 15 00:30 : player: played "退后-周杰伦.flac"
+Mar 15 00:34 : player: played "退后-周杰伦.flac"
+Mar 15 00:39 : player: played "退后-周杰伦.flac"
+Mar 15 00:43 : player: played "退后-周杰伦.flac"
+Mar 15 00:47 : player: played "退后-周杰伦.flac"
+Mar 15 00:52 : player: played "退后-周杰伦.flac"
+Mar 15 00:56 : player: played "退后-周杰伦.flac"
+Mar 15 01:00 : player: played "退后-周杰伦.flac"
+Mar 15 01:05 : player: played "退后-周杰伦.flac"
+Mar 15 01:09 : player: played "退后-周杰伦.flac"
+Mar 15 01:13 : player: played "退后-周杰伦.flac"
+Mar 15 01:18 : player: played "退后-周杰伦.flac"
+Mar 15 01:22 : player: played "退后-周杰伦.flac"
+Mar 15 01:26 : player: played "退后-周杰伦.flac"
+Mar 15 01:31 : player: played "退后-周杰伦.flac"
+Mar 15 01:35 : player: played "退后-周杰伦.flac"
+Mar 15 01:39 : player: played "退后-周杰伦.flac"
+Mar 15 01:43 : player: played "退后-周杰伦.flac"
+Mar 15 01:48 : player: played "退后-周杰伦.flac"
+Mar 15 01:52 : player: played "退后-周杰伦.flac"
+Mar 15 01:56 : player: played "退后-周杰伦.flac"
+Mar 15 02:01 : player: played "退后-周杰伦.flac"
+Mar 15 02:05 : player: played "退后-周杰伦.flac"
+Mar 15 02:09 : player: played "退后-周杰伦.flac"
+Mar 15 02:14 : player: played "退后-周杰伦.flac"
+Mar 15 02:18 : player: played "退后-周杰伦.flac"
+Mar 15 02:22 : player: played "退后-周杰伦.flac"
+Mar 15 02:27 : player: played "退后-周杰伦.flac"
+Mar 15 02:31 : player: played "退后-周杰伦.flac"
+Mar 15 02:35 : player: played "退后-周杰伦.flac"
+Mar 15 02:40 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 02:47 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 02:48 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 02:53 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 02:55 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 02:55 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:02 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:15 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:17 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:21 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:26 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:31 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:36 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:38 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:41 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:46 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:52 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 03:57 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:02 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:07 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:12 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:17 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:22 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:27 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:32 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:37 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:43 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 04:50 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 04:55 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 04:59 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:03 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:07 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:11 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:15 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:19 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:23 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:27 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:31 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:35 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:39 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:43 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 05:44 : update: added /ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 05:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 05:48 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 05:52 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 05:52 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 05:57 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 05:58 : update: added /ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:00 : update: updating /ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:00 : update: added /ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:04 : update: added /ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:04 : update: added /ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:04 : update: added /ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:04 : update: added /ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:11 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 06:11 : update: added /ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:11 : update: added /ÖÜ½ÜÂ×-¡¶ÍþÁ®¹Å±¤¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:11 : update: added /ÖÜ½ÜÂ×-¡¶»ôÔª¼×¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:11 : update: added /ÖÜ½ÜÂ×-¡¶ÊÀ½çÎ´Ä©ÈÕ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:11 : update: added /ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:12 : update: added /ÖÜ½ÜÂ×-¡¶¼òµ¥°®¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:15 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶°²¾²¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:19 : update: added /ÖÜ½ÜÂ×-¡¶°ëµºÌúºÐ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:23 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 06:24 : update: added /ÖÜ½ÜÂ×-¡¶·´·½ÏòµÄÖÓ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:24 : update: added /ÖÜ½ÜÂ×-¡¶ÎÒ²»Åä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:24 : update: added /ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:24 : update: added /ÖÜ½ÜÂ×-¡¶ºÚÉ«ÓÄÄ¬¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 06:24 : update: added /ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 15 06:25 : update: added /ÖÜ½ÜÂ×-¡¶ÄæÁÛ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 15 06:27 : update: added /ÖÜ½ÜÂ×-¡¶·ã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 15 06:28 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 15 06:32 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 06:35 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 06:36 : player: played "你听得到.flac"
+Mar 15 06:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 06:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 06:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 06:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 06:36 : player: played "你听得到.flac"
+Mar 15 06:41 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 06:41 : player: played "你听得到.flac"
+Mar 15 06:45 : player: played "花海 - 周杰伦.mp3"
+Mar 15 06:50 : player: played "退后-周杰伦.flac"
+Mar 15 06:54 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 06:58 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 07:03 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:07 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:13 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 07:13 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:17 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 07:17 : player: played "你听得到.flac"
+Mar 15 07:22 : player: played "花海 - 周杰伦.mp3"
+Mar 15 07:26 : player: played "退后-周杰伦.flac"
+Mar 15 07:30 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 07:34 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 07:40 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:43 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:47 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 07:48 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 15 07:52 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 07:52 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 07:56 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 07:56 : player: played "你听得到.flac"
+Mar 15 08:01 : player: played "花海 - 周杰伦.mp3"
+Mar 15 08:05 : player: played "退后-周杰伦.flac"
+Mar 15 08:09 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 08:13 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 08:18 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:22 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:26 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 08:31 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 15 08:34 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 08:38 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:42 : player: played "ÖÜ½ÜÂ×_ÁºÐÄÒÃ-¡¶Éºº÷º£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:46 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 08:46 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:51 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 08:52 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 08:56 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:00 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:03 : update: added /ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 09:05 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:09 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:12 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:20 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 09:21 : update: added /ÁÖ¿¡½Ü-¡¶²Ü²Ù¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 09:21 : update: added /ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 09:21 : update: added /ÁÖ¿¡½Ü-¡¶½_ÄÏ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 09:23 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 09:24 : player: played "你听得到.flac"
+Mar 15 09:31 : update: removing ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 15 09:31 : update: added /那些你很冒险的梦-林俊杰.flac
+Mar 15 09:36 : exception: Failed to decode /home/Azucar/music/那些你很冒险的梦-林俊杰.flac; Failed to open '/home/Azucar/music/那些你很冒险的梦-林俊杰.flac': No such file or directory
+Mar 15 09:36 : player: played "那些你很冒险的梦-林俊杰.flac"
+Mar 15 09:36 : exception: Failed to decode /home/Azucar/music/那些你很冒险的梦-林俊杰.flac; Failed to open '/home/Azucar/music/那些你很冒险的梦-林俊杰.flac': No such file or directory
+Mar 15 09:36 : update: removing 那些你很冒险的梦-林俊杰.flac
+Mar 15 09:36 : update: added /林俊杰 - 那些你很冒险的梦.flac
+Mar 15 09:40 : player: played "林俊杰 - 那些你很冒险的梦.flac"
+Mar 15 09:40 : exception: Failed to decode /home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac; Failed to open '/home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac': No such file or directory
+Mar 15 09:40 : player: played "林俊杰 - 那些你很冒险的梦.flac"
+Mar 15 09:40 : exception: Failed to decode /home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac; Failed to open '/home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac': No such file or directory
+Mar 15 09:40 : exception: Failed to decode /home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac; Failed to open '/home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac': No such file or directory
+Mar 15 09:40 : player: played "林俊杰 - 那些你很冒险的梦.flac"
+Mar 15 09:40 : exception: Failed to decode /home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac; Failed to open '/home/Azucar/music/林俊杰 - 那些你很冒险的梦.flac': No such file or directory
+Mar 15 09:40 : update: removing 林俊杰 - 那些你很冒险的梦.flac
+Mar 15 09:40 : update: added /林俊杰 - 那些你很冒险的梦 .flac
+Mar 15 09:44 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 09:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 09:48 : player: played "你听得到.flac"
+Mar 15 09:52 : player: played "花海 - 周杰伦.mp3"
+Mar 15 09:56 : player: played "退后-周杰伦.flac"
+Mar 15 10:03 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 10:08 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 10:09 : exception: Failed to decode /home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 15 10:09 : player: played "ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:09 : exception: Failed to decode /home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 15 10:14 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 15 10:20 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 15 10:24 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:28 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 10:28 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:32 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 10:33 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:37 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:40 : exception: Failed to decode /home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 15 10:41 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:41 : player: played "ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:41 : exception: Failed to decode /home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 15 10:41 : player: played "ÁÖ¿¡½Ü - ¡¶ÄÇÐ©ÄãºÜÃ°ÏÕµÄÃÎ¡·ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:45 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 10:50 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 10:53 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 10:54 : player: played "你听得到.flac"
+Mar 15 10:58 : player: played "花海 - 周杰伦.mp3"
+Mar 15 11:02 : player: played "退后-周杰伦.flac"
+Mar 15 11:06 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 11:07 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 15 11:08 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 15 11:14 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 11:16 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 15 11:17 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 15 11:17 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 11:24 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 11:28 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 11:33 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 11:33 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 15 11:34 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 15 11:42 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 11:47 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 11:51 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 11:51 : player: played "你听得到.flac"
+Mar 15 11:57 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:10 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:20 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:26 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:30 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:36 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:47 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 12:52 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 12:55 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 12:55 : player: played "你听得到.flac"
+Mar 15 13:08 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 13:13 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 13:16 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 13:16 : player: played "你听得到.flac"
+Mar 15 13:21 : player: played "花海 - 周杰伦.mp3"
+Mar 15 13:25 : player: played "退后-周杰伦.flac"
+Mar 15 13:29 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 13:34 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 13:39 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 13:43 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 13:47 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 13:51 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 15 13:54 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 13:58 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:02 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 14:02 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:08 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 14:08 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:12 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:17 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:21 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:25 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:28 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:33 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:37 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:40 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 14:41 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:45 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:49 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 15 14:52 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 14:56 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 14:57 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:01 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 15:01 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:05 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:09 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:13 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 15:18 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:19 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 15 15:24 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:28 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 15:28 : player: played "你听得到.flac"
+Mar 15 15:33 : player: played "花海 - 周杰伦.mp3"
+Mar 15 15:37 : player: played "退后-周杰伦.flac"
+Mar 15 15:41 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 15:45 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 15:51 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:54 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 15:58 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 16:03 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 15 16:06 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 16:10 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 16:14 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:19 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 16:20 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:24 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:28 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:33 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:37 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:40 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:45 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:49 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:52 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 16:52 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 16:56 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:00 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 15 17:06 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:10 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 17:11 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:15 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 17:15 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:20 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:23 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:27 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 17:32 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 17:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 17:36 : player: played "你听得到.flac"
+Mar 15 17:41 : player: played "花海 - 周杰伦.mp3"
+Mar 15 17:45 : player: played "退后-周杰伦.flac"
+Mar 15 17:49 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 17:53 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 17:58 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 18:02 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 20:30 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 20:35 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 15 20:38 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 20:42 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 20:46 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 20:46 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 20:51 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 20:52 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 20:56 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:00 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:05 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:09 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:12 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:17 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:21 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:24 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 21:24 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:28 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:32 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 15 21:36 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:40 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 21:40 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:45 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 21:45 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:49 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:53 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 21:57 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 15 22:02 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 22:05 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 22:06 : player: played "你听得到.flac"
+Mar 15 22:14 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 15 22:19 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 22:23 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 22:23 : player: played "你听得到.flac"
+Mar 15 22:27 : player: played "花海 - 周杰伦.mp3"
+Mar 15 22:32 : player: played "退后-周杰伦.flac"
+Mar 15 22:36 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 15 22:41 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 15 22:46 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 22:50 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 22:57 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:01 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 15 23:05 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 15 23:08 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 15 23:12 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:16 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 23:16 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:21 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 23:22 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:26 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:30 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:35 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:40 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:43 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:47 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:52 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:55 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 15 23:55 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 15 23:59 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:03 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 16 00:07 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:11 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 00:11 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:16 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 00:16 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:20 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:24 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:28 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 16 00:33 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 00:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 00:37 : player: played "你听得到.flac"
+Mar 16 00:41 : player: played "花海 - 周杰伦.mp3"
+Mar 16 00:45 : player: played "退后-周杰伦.flac"
+Mar 16 00:49 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 00:54 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 00:59 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:03 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:09 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:13 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:17 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 16 01:21 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 16 01:24 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 16 01:28 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:32 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 01:32 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:38 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 01:38 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:42 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:47 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:51 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:55 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 01:58 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:03 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:07 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:10 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:11 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:15 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:19 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 16 02:22 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:26 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:27 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:30 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 16 02:35 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:35 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:39 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:40 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:41 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 16 02:45 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:54 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 02:57 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 02:58 : player: played "你听得到.flac"
+Mar 16 03:02 : player: played "花海 - 周杰伦.mp3"
+Mar 16 03:06 : player: played "退后-周杰伦.flac"
+Mar 16 17:33 : player: played "退后-周杰伦.flac"
+Mar 16 17:37 : player: played "退后-周杰伦.flac"
+Mar 16 17:41 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 17:49 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 17:58 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 18:02 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 18:08 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 18:19 : player: played "花海 - 周杰伦.mp3"
+Mar 16 18:24 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 18:25 : player: played "你听得到.flac"
+Mar 16 18:29 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 18:29 : player: played "你听得到.flac"
+Mar 16 18:34 : player: played "花海 - 周杰伦.mp3"
+Mar 16 18:38 : player: played "退后-周杰伦.flac"
+Mar 16 18:42 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 18:47 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 18:51 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 19:01 : player: played "花海 - 周杰伦.mp3"
+Mar 16 19:06 : player: played "退后-周杰伦.flac"
+Mar 16 19:13 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 19:14 : player: played "你听得到.flac"
+Mar 16 19:18 : player: played "花海 - 周杰伦.mp3"
+Mar 16 19:22 : player: played "退后-周杰伦.flac"
+Mar 16 19:26 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 19:31 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 19:42 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 19:42 : player: played "你听得到.flac"
+Mar 16 19:47 : player: played "花海 - 周杰伦.mp3"
+Mar 16 19:51 : player: played "退后-周杰伦.flac"
+Mar 16 19:58 : player: played "退后-周杰伦.flac"
+Mar 16 20:02 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 20:10 : player: played "退后-周杰伦.flac"
+Mar 16 20:14 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 20:21 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:25 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:30 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:36 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:44 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 20:49 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:52 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 20:52 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 20:56 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:00 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 21:00 : player: played "你听得到.flac"
+Mar 16 21:05 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:08 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 16 21:12 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 16 21:15 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:20 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:24 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 16 21:28 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:33 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 21:37 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 16 21:42 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 16 21:46 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 16 21:50 : player: played "退后-周杰伦.flac"
+Mar 16 22:00 : player: played "花海 - 周杰伦.mp3"
+Mar 16 22:04 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:08 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 16 22:15 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:19 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:23 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 22:24 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:28 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:31 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 22:32 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:35 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 22:36 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:40 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:44 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:48 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 16 22:53 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 22:53 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 22:57 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:02 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:06 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 16 23:10 : player: played "退后-周杰伦.flac"
+Mar 16 23:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 23:14 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:18 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:22 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:25 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:29 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:33 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 16 23:38 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:43 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 23:43 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:46 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:51 : player: played "花海 - 周杰伦.mp3"
+Mar 16 23:55 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 16 23:55 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 16 23:59 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 17 00:04 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:09 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 17 00:13 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 00:17 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:21 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:25 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 00:26 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:30 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 17 00:33 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 00:34 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:38 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:41 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 17 00:46 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 00:50 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:54 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 00:57 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 00:58 : player: played "你听得到.flac"
+Mar 17 01:02 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:06 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:11 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:15 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:19 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:23 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:26 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 01:27 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 17 01:27 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:27 : exception: Failed to open "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 01:27 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:28 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 01:28 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 01:28 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 01:32 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 01:36 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 01:40 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 01:42 : output: Failed to play on "pulse audio" (pulse): disconnected
+Mar 17 01:46 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 01:50 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 01:51 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 01:55 : player: played "退后-周杰伦.flac"
+Mar 17 02:00 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 02:04 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 02:05 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 02:07 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 02:07 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 02:07 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:07 : exception: All outputs are disabled
+Mar 17 02:08 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: All outputs are disabled
+Mar 17 02:08 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 02:14 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 17 02:18 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 02:22 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 02:27 : player: played "花海 - 周杰伦.mp3"
+Mar 17 02:30 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 02:35 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 02:35 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 03:14 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 03:14 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 03:18 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 03:21 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 03:21 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 03:26 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 03:31 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 03:34 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 03:35 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 03:40 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 03:52 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 03:55 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 03:59 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 04:02 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 04:02 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:08 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 04:11 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 04:17 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 04:22 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 04:26 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:31 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:35 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 17 04:40 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:45 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:49 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 17 04:53 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 04:53 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 04:57 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:01 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:06 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:11 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 05:11 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:15 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:19 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 17 05:24 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:28 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 17 05:32 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 17 05:37 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:41 : player: played "退后-周杰伦.flac"
+Mar 17 05:45 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 05:49 : player: played "你听得到.flac"
+Mar 17 05:53 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 05:57 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:00 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:04 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:07 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:07 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:11 : player: played "花海 - 周杰伦.mp3"
+Mar 17 06:15 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:15 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:19 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:20 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:23 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:24 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:28 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 06:32 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:36 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:40 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:45 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:46 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 06:50 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:54 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 06:58 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 17 07:02 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 07:02 : player: played "你听得到.flac"
+Mar 17 07:05 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:10 : player: played "退后-周杰伦.flac"
+Mar 17 07:14 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 17 07:17 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:22 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:26 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 07:26 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:30 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:34 : player: played "ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:39 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:43 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 17 07:47 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 07:51 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:56 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 07:59 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 07:59 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:04 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 17 08:08 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 08:08 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:13 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 17 08:16 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 08:17 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:22 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:25 : player: played "ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3"
+Mar 17 08:29 : player: played "花海 - 周杰伦.mp3"
+Mar 17 08:34 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:37 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:41 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 08:41 : player: played "你听得到.flac"
+Mar 17 08:45 : player: played "花海 - 周杰伦.mp3"
+Mar 17 08:50 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:54 : player: played "ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 08:58 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 08:59 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:04 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 09:04 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:09 : player: played "ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:13 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 09:14 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:18 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:21 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 09:22 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:26 : player: played "ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:31 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 17 09:34 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 09:35 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:39 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:43 : player: played "ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:48 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:52 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 17 09:57 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 09:59 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 17 10:00 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 10:03 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 10:08 : player: played "退后-周杰伦.flac"
+Mar 17 17:19 : exception: Failed to decode /home/Azucar/music/ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 17 17:19 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 17:19 : exception: Failed to decode /home/Azucar/music/ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac; Failed to open '/home/Azucar/music/ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac': No such file or directory
+Mar 17 17:19 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 17:19 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 17 17:19 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÄæÁÛ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶»ôÔª¼×¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ºÚÉ«ÓÄÄ¬¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÁÖ¿¡½Ü-¡¶½_ÄÏ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-°µH.mp3
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶°ëµºÌúºÐ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶·ã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 17 17:21 : update: added /花海 - 周杰伦.mp3
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3
+Mar 17 17:21 : update: added /林俊杰 - 那些你很冒险的梦 .flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶°²¾²¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶°×É«·ç³µ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶±¾²Ý¸ÙÄ¿¡· mp3ÒôÀÖÃâ·ÑÏÂÔØ.mp3
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶·´·½ÏòµÄÖÓ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÎÒ²»Åä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /退后-周杰伦.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ºì³¾¿ÍÕ»¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÊÀ½çÎ´Ä©ÈÕ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶½è¿Ú¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶°ëÊÞÈË¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /你听得到.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶²Êºç¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÍþÁ®¹Å±¤¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÁÖ¿¡½Ü-¡¶²Ü²Ù¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×_ÁºÐÄÒÃ-¡¶Éºº÷º£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Ë«µ¶¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶ÊÖÐ´µÄ´ÓÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶¼òµ¥°®¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac
+Mar 17 17:21 : update: added /ÖÜ½ÜÂ×-ÒÔfÖ®m.mp3
+Mar 17 18:44 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 18:48 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 18:52 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:14 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:18 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:22 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:27 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:31 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:35 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:39 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:44 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:47 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 17 19:48 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:52 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 19:56 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:01 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:05 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:09 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:13 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:17 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:22 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:26 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:30 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:34 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:39 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:43 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:47 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:51 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 20:55 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:00 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:04 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:08 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:12 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:17 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:21 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:25 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:29 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:33 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:38 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:42 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:46 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:50 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:55 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 21:59 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:03 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:07 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:12 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:16 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:20 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:24 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:28 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:33 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:37 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:41 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:45 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:50 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:54 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 22:58 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:02 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:06 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:11 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:15 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:19 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:23 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:28 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:32 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:36 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:40 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:44 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:49 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:53 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 17 23:57 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:01 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:06 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:10 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:14 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:18 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:23 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:27 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 00:27 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 18 00:51 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 00:56 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 01:00 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 01:02 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 08:52 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 08:56 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:00 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:04 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:08 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:12 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:17 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:21 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:25 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:29 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:33 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:37 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:42 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:46 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:50 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 09:54 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 09:58 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:02 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:07 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:11 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:15 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:19 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:23 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:27 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:32 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:36 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:40 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:44 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:48 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 10:52 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 10:56 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:01 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:05 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:09 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:13 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:17 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:21 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:26 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:30 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:34 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:38 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:42 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:46 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:51 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 11:55 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 11:59 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:03 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:07 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:11 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:16 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:20 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:24 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:28 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:32 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:36 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:40 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:45 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:49 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:53 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 12:54 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 12:57 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:01 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:06 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:10 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:14 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:18 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:22 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:26 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:31 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:35 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:39 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:43 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:47 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 13:51 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 13:55 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:00 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:04 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:08 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:12 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:16 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:20 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:25 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:29 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:33 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:37 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:41 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:45 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 14:49 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:54 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 14:58 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:02 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:06 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:10 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:14 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:18 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:23 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:27 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:31 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:35 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:39 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:44 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 15:48 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:52 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 15:56 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:00 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:04 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 16:09 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:13 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 16:17 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:19 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 18 16:23 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 16:27 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:30 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 18 16:35 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:39 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 16:43 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:47 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 16:51 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 16:55 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:00 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:04 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:08 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:12 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:16 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:20 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:25 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:29 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:33 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:37 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 17:41 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 17:44 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 18 21:36 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 21:40 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 21:44 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 21:48 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 21:52 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 21:57 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:01 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:05 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 22:09 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:13 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 22:17 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 22:22 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 22:26 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:30 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 22:39 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 18 22:40 : player: played "ÖÜ½ÜÂ×-¡¶¹ì¼£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:44 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 18 22:48 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:52 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 22:57 : player: played "花海 - 周杰伦.mp3"
+Mar 18 23:01 : player: played "林俊杰 - 那些你很冒险的梦 .flac"
+Mar 18 23:07 : player: played "ÖÜ½ÜÂ×-ÒÔfÖ®m.mp3"
+Mar 18 23:11 : player: played "ÖÜ½ÜÂ×-¡¶»ôÔª¼×¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:16 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:20 : player: played "ÁÖ¿¡½Ü-¡¶²Ü²Ù¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:24 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 18 23:24 : player: played "ÖÜ½ÜÂ×-¡¶Ë«µ¶¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:29 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 18 23:32 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 18 23:32 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:37 : player: played "ÖÜ½ÜÂ×-¡¶·ã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 18 23:41 : player: played "ÖÜ½ÜÂ×-¡¶ÄæÁÛ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 18 23:46 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:50 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 18 23:53 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 18 23:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 18 23:54 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 18 23:59 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 18 23:59 : player: played "ÖÜ½ÜÂ×-¡¶¶·Å£¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:03 : player: played "ÖÜ½ÜÂ×-¡¶×î³¤µÄµçÓ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:08 : player: played "ÖÜ½ÜÂ×-¡¶ÊÀ½çÎ´Ä©ÈÕ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:12 : player: played "ÖÜ½ÜÂ×-¡¶¼òµ¥°®¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:16 : player: played "ÖÜ½ÜÂ×-¡¶Æ®ÒÆ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 19 00:19 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:23 : player: played "ÖÜ½ÜÂ×-¡¶¸éÇ³¡· mp3ÒôÀÖÔÚÏßÏÂÔØ.mp3"
+Mar 19 00:28 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 19 00:29 : player: played "ÖÜ½ÜÂ×-¡¶°ëµºÌúºÐ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:32 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 00:36 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 19 01:15 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:21 : player: played "ÖÜ½ÜÂ×-¡¶Ë«½Ø¹÷¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:26 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 19 01:27 : player: played "ÖÜ½ÜÂ×-¡¶°²¾²¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:30 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 19 01:31 : player: played "ÖÜ½ÜÂ×-¡¶°®ÔÚÎ÷ÔªÇ°¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:35 : player: played "ÖÜ½ÜÂ×-¡¶ÎÒ²»Åä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:39 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 19 01:43 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 19 01:43 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 19 01:43 : player: played "你听得到.flac"
+Mar 19 01:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 19 01:49 : player: played "ÖÜ½ÜÂ×-¡¶°ëµºÌúºÐ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 01:53 : player: played "退后-周杰伦.flac"
+Mar 19 01:57 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 19 02:02 : player: played "ÖÜ½ÜÂ×-°µH.mp3"
+Mar 19 02:06 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 19 02:10 : player: played "ÖÜ½ÜÂ×-¡¶¸øÎÒÒ»Ê×¸èµÄÊ±¼ä¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"

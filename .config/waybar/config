@@ -1,0 +1,173 @@
+{
+	"layer": "top",
+    "position":"top",
+	"modules-left": ["custom/launcher","cpu","memory","bluetooth","network","custom/media","hyprland/workspaces","tray"],
+	"modules-center": ["custom/ci"],
+	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/clipboardclear","custom/power"],
+	
+	"pulseaudio": {
+		/*"tooltip": false,*/
+		/*"scroll-step": 5,*/
+		/*"format": "{icon} {volume}%",*/
+		/*"format-muted": "{icon}  {volume}%",*/
+		/*"on-click":"pactl set-sink-mute @DEFAULT_SINK@ toggle",*/
+		/*"format-icons": {*/
+			/*"default": ["", "", ""]*/
+		/*}*/
+
+        //"scroll-step": 1,
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "{icon} {volume}%",
+        "format-muted": "",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "󰋎",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle" 
+	},
+    "hyprland/workspaces": {
+        "format":"{icon}",
+        "format-icons": {
+            "1":"1",
+            "2":"2",
+            "3":"3",
+            "4":"4",
+            "5":"5",
+            "6":"6",
+            "7":"7",
+            "8":"8",
+            "9":"9",
+            "default": "",
+        },
+        "on-click": "activate",
+    },
+	"network": {
+		"tooltip": true,
+        "interval":1,
+		/*"format-wifi": "  {bandwidthUpBytes}\uf062 \uf063 {bandwidthDownBytes}",*/
+		"format-wifi":"  {bandwidthTotalBytes}",
+        "format-ethernet": "",
+        "tooltip-format-wifi":"{essid}",
+        "tooltip-format-ethernet":"{ifname}"
+	},
+	"backlight": {
+		"tooltip": false,
+		"format": " {}%",
+		"interval":1,
+        "on-scroll-up":"brightnessctl set 1%+ > /dev/null",
+        "on-scroll-down":"brightnessctl set 1%- > /dev/null"
+       /* "on-scroll-up": "light -A 5",*/
+		/*"on-scroll-down": "light -U 5"*/
+	},
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{icon} {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon}",
+        "format-icons": [" ", " ", " ", " ", " "]
+    },
+	"tray":{
+		"icon-size":18,
+		"spacing": 10
+	},
+    "clock": {
+        /*"format": "{:%H:%M %Y/%m/%d}",*/
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{: %Y-%m-%d}"
+    },
+    "cpu": {
+        "interval": 5,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "custom/launcher":{
+        "format": " ",
+        "on-click": "mpc toggle > /dev/null",
+        "on-click-right":"[ -e \"${HOME}/.config/waybar/scripts/state.txt\" ] && $(rm ${HOME}/.config/waybar/scripts/state.txt && notify-send '歌词显示已关闭') || $(touch \"${HOME}/.config/waybar/scripts/state.txt\" && notify-send '歌词显示已开启')"
+        /*"on-click-right":u"killall rofi"*/
+    },
+    "custom/power":{
+        /*"format": " ",*/
+        /*"on-click": "systemctl suspend",*/
+        "format": " ",
+        "on-click": "wlogout -b 5",
+        "interval": 86400, // once every day
+        "tooltip": false
+    },
+    /*"custom/updates":{*/
+        /*"format": "{} Update(s)",*/
+        /*"exec": "checkupdates | wc -l",*/
+        /*"exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",*/
+        /*"interval": 15,*/
+        /*"on-click": "alacritty -e yay -Syu && notify-send 'The system has been updated' "*/
+    /*},*/
+    "custom/wallpaper":{
+        "format":" ",
+        "on-click": "bash ~/.config/waybar/scripts/wollpaper.sh 1",
+        "on-click-right":"bash ~/.config/waybar/scripts/wollpaper.sh 2"
+    },
+    /*"mpd#ALL":{*/
+        /*"format":"{artist} - {album} - {title}",*/
+        /*"interval":"5",*/
+        /*"format-paused":"{artist} - {album} - {title}",*/
+        /*"tooltip-format-disconnected":"disconnected",*/
+        /*"tooltip": true,*/
+        /*"tooltip-format":"{songPosition}/{queueLength}",*/
+        /*"on-click":"mpc toggle"*/
+    /*},*/
+    /*"mpd#next":{*/
+        /*"format":"▶",*/
+        /*"tooltip": false,*/
+        /*"on-click": "mpc next"*/
+    /*},*/
+    /*"mpd#prev":{*/
+        /*"format":"◀",*/
+        /*"tooltip": false,*/
+        /*"on-click": "mpc prev"*/
+    /*},*/
+    "bluetooth": {
+        "format": " {status}",
+        "format-disabled": "", 
+        "format-connected": " {num_connections}",
+        "tooltip-format": "{controller_alias}\t{controller_address}",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+    },
+    "custom/ci":{
+        "return-type": "text",
+        /*"interval":1,*/
+        /*"signal":3,*/
+        "exec": "~/.config/waybar/scripts/songLyrics.sh",
+        "format": "{}",
+        "tooltip":"true",
+        "tooltip-format":"{icon}{}",
+        "format-icons": {
+            "default":"🎜"
+        },
+        "format-stopped":"",
+        "format-disconnected":"",
+        "format-paused":"",
+        "on-click":"mpc toggle > /dev/null ",
+        "on-scroll-up":"mpc volume +1 > /dev/null",
+        "on-scroll-down":"mpc volume -1 > /dev/null"
+    },
+   /* "custom/clipboardclear": {*/
+        /*"format": "󰃢 ",*/
+		/*"on-click": "bash ~/.config/waybar/scripts/clipboardclear.sh",*/
+		/*"tooltip": false*/
+    /*}*/
+}
