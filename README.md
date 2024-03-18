@@ -14,58 +14,125 @@ waybar启动后的效果。
 
 ![image-20240315021535682](https://github.com/ArenaAzucar/Linux-Hyprland/blob/master/assets/image-20240315032247243.png)
 
-![image-20240315021607019](https://github.com/ArenaAzucar/Linux-Hyprland/blob/master/assets/image-20240315032420093.png)
+![image-20240319043935861](https://github.com/ArenaAzucar/Linux-Hyprland/blob/master/assets/image-20240319043935861.png)
 
 ![image-20240315021656961](https://github.com/ArenaAzucar/Linux-Hyprland/blob/master/assets/image-20240315032053058.png)
 
-# 一些功能说明
+# 安装
 
-1. waybar中间的歌词在你启动mpd时才会显示，但它需要依赖mpc。
+- 配置pacman
 
-2. 声音和蓝牙需要安装对应的驱动
+    ```sh
+    # 修改/etc/pacman.d/mirrorlist
+    echo 'Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
+	```
 
-3. 壁纸是随机的（你需要安装swaybg , 并且修改waybar/scripts/background-changer中的wallpapers_path，这个是壁纸文件夹的路径）。
+    ```sh
+    # 修改/etc/pacman.conf
+    echo '[multilib]
+    Include = /etc/pacman.d/mirrorlist'>>/etc/pacman.conf
+    echo '[archlinuxcn]
+    SigLevel = Optional TrustAll
+    Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch'>>/etc/pacman.conf
+	```
 
-# 需要安装的软件
+    ```sh
+    # 更新pacman
+    sudo pacman -Syy
+    sudo pacman -S archlinuxcn-keyring
+    ```
 
-```bash
-sudo pacman -S swaybg mpd mpc ncmpcpp pulseaudio bluez bluez-utils pulseaudio-bluetooth fcitx5-im fcitx5-pinyin-zhwiki swayidle alacritty-git dolphin brightnessctl pulseaudio 
+- 安装需要的软件
 
-yay -S rofi-lbonn-wayland-only-git
-```
+    ```bash
+    # 安装一些软件需要的依赖,否则可能会报错
+    sudo pacman -S base-devel debugedit fakeroot
+    # 安装最新的hyprland
+    sudo pacman -S hyprland-git
+    # 安装项目需要的软件
+    sudo pacman -S swaybg-git mpd mpc ncmpcpp pulseaudio grim bluez bluez-utils ulseaudio-bluetooth fcitx5-im fcitx5-pinyin-zhwiki swayidle alacritty-git pcmanfm brightnessctl pulseaudio paru-git ttf-monaco ttf-jetbrains-mono-nerd git mako libnotify wlogout zsh
+    oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions keyd
+    
+    paru -S rofi-lbonn-wayland-only-git mpvpaper-git
+    ```
 
-1. swaybg壁纸
+    1. swaybg壁纸
 
-2. mpd，mpc，ncmpcpp听歌的
+    2. mpd，mpc，ncmpcpp听歌的
 
-3. bluez bluez-utils pulseaudio-bluetooth蓝牙
+    3. bluez bluez-utils pulseaudio-bluetooth蓝牙
 
-4. fcitx5-im fcitx5-pinyin-zhwiki 输入法
-   ```bash
-   # 修改配置文件/etc/environment, 添加以下内容：
-   GTK_IM_MODULE=fcitx5
-   QT_IM_MODULE=fcitx5
-   SDL_IM_MODULE=fcitx5
-   XMODIFIERS=@im=fcitx5
-   ```
+    4. fcitx5-im fcitx5-pinyin-zhwiki 输入法
 
-5. swayidle息屏相关
+    5. swayidle 息屏
 
-6. alacritty-git终端模拟器
+    6. alacritty-git 终端模拟器
 
-7. rofi-lbonn-wayland-only-git软件启动器
+    7. kitty 终端模拟器
 
-8. dolphin文件管理工具
+    8. mako 告警提示, libnotify中的notify-send命令可以发送文本到mako
+    
+    9. grim截图
+    
+    10. wlogout这个是waybar右上角的开始按钮用的
+    
+    11. rofi-lbonn-wayland-only-git软件启动器
+    
+    12. pcmanfm文件管理工具
+    
+        感觉没啥用，基本用不到，我常用的是joshuto或者yazi
+    
+        ```bash
+        sudo pacman -S joshuto-git 
+        sudo pacman -S yazi-git
+        ```
+    
+    13. brightnessctl屏幕亮度调整
+    
+    14. pulseaudio音量调整
+    
+    15. keyd 按键修改
+    
+    16. ttf-monaco ttf-jetbrains-mono-nerd 字体
+    
+    17. mpvpaper-git 动态壁纸需要用的
+    
+    18. zsh oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions 都是zsh用的
+    
 
-   感觉没啥用，基本用不到，我常用的是joshuto或者yazi
 
-   ```bash
-   sudo pacman -S joshuto-git yazi-git
-   ```
+- 将该项目配置应用到主机
 
-9. brightnessctl屏幕亮度调整
-
-10. pulseaudio音量调整
+	克隆:`git clone https://github.com/ArenaAzucar/Linux-Hyprland.git`
+	
+	```sh
+	# 你可以编写一个bash脚本来覆盖你原本的配置(建议可以备份一下自己的配置)
+	path=<克隆项目的本地路径>
+	# 将.config下的所有文件覆盖到本地的${HOME}/.config/下
+	# 里面包含:alacritty kitty waybar hypr neofetch wlogout mako rofi的配置
+	# 你需要修改hypr文件夹中的hyprland.conf文件,这个文件需要修改6,9,181行上面有注释.
+	cp $path/.config/* ${HOME}/.config -r
+	# mpd ncmpcpp
+	cp $path/.mpd ${HOME}/ -r
+	cp $path/.ncmpcpp ${HOME}/ -r
+	gpasswd -a mpd audio
+	# zsh配置文件
+	cp $path/.zshrc ${HOME}/.zshrc
+	# vim配置文件,配的比较垃圾,不建议使用
+	cp $path/.vimrc ${HOME}/.vimrc
+	# 添加输入法需要的环境变量
+	echo 'GTK_IM_MODULE=fcitx5
+	QT_IM_MODULE=fcitx5
+	SDL_IM_MODULE=fcitx5
+	XMODIFIERS=@im=fcitx5' >> /etc/environment
+	# keyd配置,将capslook键修改成super,但是又不影响其本身的大小写切换,原本的super也不会有影响
+	sudo cp $path/keyd/default.conf /etc/keyd/
+	# 自动启动蓝牙服务
+	sudo systemctl enable bluetooth
+	sudo systemctl start bluetooth
+	```
+	
+	
 
 # 按键
 
@@ -192,12 +259,6 @@ yay -S rofi-lbonn-wayland-only-git
 
    不知道怎么处理, 可能是配置文件有问题, 偶尔会出现这个问题.
 
-   
-
-
-# linux下听歌的方法（mpd，ncmpcpp）
-
-可以看[这个](https://scarlet-bass-8ab.notion.site/linux-mpd-ncmpcpp-2f692dd354194f4290d9de7bb7b0495a?pvs=4)
 
 # 参考文档
 
