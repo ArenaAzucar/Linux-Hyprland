@@ -56,48 +56,48 @@ waybar启动后的效果。
     paru -S rofi-lbonn-wayland-only-git mpvpaper-git
     ```
 
-    1. swaybg壁纸
+    - swaybg壁纸
 
-    2. mpd，mpc，ncmpcpp听歌的
+    - mpd，mpc，ncmpcpp听歌的
 
-    3. bluez bluez-utils pulseaudio-bluetooth蓝牙
+    - bluez bluez-utils pulseaudio-bluetooth蓝牙
 
-    4. fcitx5-im fcitx5-pinyin-zhwiki 输入法
+    - fcitx5-im fcitx5-pinyin-zhwiki 输入法
 
-    5. swayidle 息屏
+    - swayidle 息屏
 
-    6. alacritty-git 终端模拟器
+    - alacritty-git 终端模拟器
 
-    7. kitty 终端模拟器
+    - kitty 终端模拟器
 
-    8. mako 告警提示, libnotify中的notify-send命令可以发送文本到mako
+    - mako 告警提示, libnotify中的notify-send命令可以发送文本到mako
     
-    9. grim截图
+    - grim截图
     
-    10. wlogout这个是waybar右上角的开始按钮用的
+    - wlogout这个是waybar右上角的开始按钮用的
     
-    11. rofi-lbonn-wayland-only-git软件启动器
+    - rofi-lbonn-wayland-only-git软件启动器
     
-    12. pcmanfm文件管理工具
+    - pcmanfm文件管理工具
     
-        感觉没啥用，基本用不到，我常用的是joshuto或者yazi
+      感觉没啥用，基本用不到，我常用的是joshuto或者yazi
+      
+      ```bash
+      sudo pacman -S joshuto-git 
+      sudo pacman -S yazi-git
+      ```
+      
+    - brightnessctl屏幕亮度调整
     
-        ```bash
-        sudo pacman -S joshuto-git 
-        sudo pacman -S yazi-git
-        ```
+    - pulseaudio音量调整
     
-    13. brightnessctl屏幕亮度调整
+    - keyd 按键修改
     
-    14. pulseaudio音量调整
+    - ttf-monaco ttf-jetbrains-mono-nerd 字体
     
-    15. keyd 按键修改
+    - mpvpaper-git 动态壁纸需要用的
     
-    16. ttf-monaco ttf-jetbrains-mono-nerd 字体
-    
-    17. mpvpaper-git 动态壁纸需要用的
-    
-    18. zsh oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions 都是zsh用的
+    - zsh oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions 都是zsh用的
     
 
 
@@ -110,7 +110,7 @@ waybar启动后的效果。
 	path=<克隆项目的本地路径>
 	# 将.config下的所有文件覆盖到本地的${HOME}/.config/下
 	# 里面包含:alacritty kitty waybar hypr neofetch wlogout mako rofi的配置
-	# 你需要修改hypr文件夹中的hyprland.conf文件,这个文件需要修改6,9,181行上面有注释.
+	# 你需要修改hypr文件夹中的hyprland.conf文件,里面有几个模块,你需要修改binds.conf的一些配置
 	cp $path/.config/* ${HOME}/.config -r
 	# mpd ncmpcpp
 	cp $path/.mpd ${HOME}/ -r
@@ -282,7 +282,7 @@ waybar启动后的效果。
    总的来说`nvidia`驱动下体验感极差.
 
 
-# 参考文档偶
+# 参考文档
 
 > hyprland官方wiki：https://wiki.hyprland.org/
 
