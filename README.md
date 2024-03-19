@@ -180,14 +180,15 @@ waybar启动后的效果。
   $nMod,<鼠标左键>	# 调整窗口大小
   $nMod,<方向键>		# 调整窗口大小
   $mainMod SHIFT,<方向键>		# 移动浮动窗口位置
+  $mainMod $nMod,<反向键> 		# 移动窗口位置
   ```
   
 - waybar上的功能
 
   ```bash
-  # launcher : Arch图标是操作mpc（音乐相关），暂停播放/开始播放, 右键显示/关闭歌词
-  # workspaces:（工作区域）显示，只显示存在窗口的工作区域，鼠标点击可以跳转到对应区域。
-  # tray: 显示启动了的软件,可以操作输入法，其他点击没效果
+  # launcher : Arch图标是操作mpc（音乐相关），左键是暂停播放/开始播放, 右键显示/关闭歌词
+  # workspaces:（工作区域）显示
+  # tray: 显示启动了的软件
   # ci：歌词显示，暂停音乐会自动消失（这是为将launcher改成【暂停播放/开始播放】的原因），鼠标滚轮可以调整音量（调整的mpd的音量，并不是系统音量），鼠标左键是暂停播放（暂停时该模块会消失，可以点launcher来播放音乐，该模块会自动弹出）。
   # wallpaper：壁纸切换，随机换一个壁纸（需要你自己在对应的路径添加图片）,右键切换动态壁纸
   # backlight：调整屏幕亮度，单点无效，鼠标滚轮可以调整亮度
@@ -235,7 +236,7 @@ waybar启动后的效果。
   right = M-right
   [ = M-[
   ] = M-]
-  leftmouse = M-leftmouse
+  # leftmouse = M-leftmouse	
   rightshift = right 		# zsh
   ```
   

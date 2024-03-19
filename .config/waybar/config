@@ -3,7 +3,7 @@
     "position":"top",
 	"modules-left": ["custom/launcher","cpu","memory","bluetooth","network","custom/media","hyprland/workspaces","tray"],
 	"modules-center": ["custom/ci"],
-	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/clipboardclear","custom/power"],
+	"modules-right": ["custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/clipboardclear","custom/power"],
 	
 	"pulseaudio": {
 		/*"tooltip": false,*/

@@ -68,4 +68,5 @@ x = 2
 y = 2
 
 [window]
-opacity = 0.6
+# 透明度
+opacity = 0.8
