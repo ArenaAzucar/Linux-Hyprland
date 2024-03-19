@@ -255,12 +255,34 @@ waybar启动后的效果。
 
 2. waybar崩溃
 
-   `segmentation fault (core dumped)  waybar`
+   报错:`segmentation fault (core dumped)  waybar`
 
    不知道怎么处理, 可能是配置文件有问题, 偶尔会出现这个问题.
 
+3. obs录屏问
 
-# 参考文档
+   问题:obs安装后没有`屏幕捕获` 
+
+   ```sh
+   # 安装
+   sudo pacman -S pipewire pipewire-pulse wireplumber xdg-desktop-portal xdg-desktop-portal-hyprland-git obs-studio-git
+   # 修改hyprland配置
+   exec-once = systemctl --user import-environment WAYLAND_DISPLAY
+   # 重启
+   ```
+
+   这个方法我在核显下可以正常使用. 
+
+   但是安装`nvidia`显卡驱动后会提示`请安装最新的 nvidia驱动`.
+
+4. 安装nvidia驱动的问题
+
+   安装后比核显还垃圾, 画面会撕裂, 一些软件会特别卡(如:typora), 出现黑块.
+
+   总的来说`nvidia`驱动下体验感极差.
+
+
+# 参考文档偶
 
 > hyprland官方wiki：https://wiki.hyprland.org/
 

@@ -13,7 +13,7 @@ function killProcess(){
 
 
 # 随机文件
-wallpapers_path="${HOME}/Video/壁纸/"
+wallpapers_path="${HOME}/Videos/壁纸/"
 function randomFile () {
     while [ true ]; do
         ############################################ 
