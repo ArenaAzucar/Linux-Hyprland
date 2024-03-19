@@ -261,17 +261,26 @@ waybar启动后的效果。
 
 3. obs录屏问
 
-   问题:obs安装后没有`屏幕捕获` 
+   1. 问题:obs安装后没有`屏幕采集` 
 
-   ```sh
-   # 安装
-   sudo pacman -S pipewire pipewire-pulse wireplumber xdg-desktop-portal xdg-desktop-portal-hyprland-git obs-studio-git
-   # 修改hyprland配置
-   exec-once = systemctl --user import-environment WAYLAND_DISPLAY
-   # 重启
-   ```
-
-
+      ```sh
+      # 安装
+      sudo pacman -S pipewire pipewire-pulse wireplumber xdg-desktop-portal xdg-desktop-portal-hyprland-git obs-studio-git
+      # 修改hyprland配置
+      exec-once = systemctl --user import-environment WAYLAND_DISPLAY
+      # 重启
+      ```
+   
+   2. 问题:obs有`屏幕采集`,但是采集的是黑屏
+   
+      ```sh
+      # 这个需要修改配置文件
+      # 这个是全局生效:/usr/share/applications/com.obsproject.Studio.desktop
+      # 当前用户生效: ~/.local/share/applications/com.obsproject.Studio.desktop
+      # 修改里面Exec的参数,原本应该是obs,在后面加个 -platform wayland即可
+      Exec=obs -platform wayland
+      # 重启/注销
+      ```
 
 # 参考文档
 
