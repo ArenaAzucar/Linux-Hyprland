@@ -4,7 +4,7 @@
 
 # Ask for confirmation
 cdialog () {
-	yad --title='Confirm?' --borders=15 --center --fixed --undecorated --button=Yes:0 --button=No:1 --text="Are you sure?" --text-align=center
+	yad --title='Confirm?' --borders=15 --center --fixed --undecorated --button=Yes:0 --button=No:1 --text="尊嘟假嘟?" --text-align=center
 }
 
 if [[ "$1" == '--shutdown' ]]; then
@@ -28,8 +28,6 @@ elif [[ "$1" == '--hibernate' ]]; then
     else
 		exit
     fi
-elif [[ "$1" == '--lock' ]]; then
-	~/.config/hypr/scripts/lockscreen
 elif [[ "$1" == '--suspend' ]]; then
 	cdialog
 	if [[ "$?" == 0 ]]; then

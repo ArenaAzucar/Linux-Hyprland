@@ -22,22 +22,25 @@ waybar启动后的效果。
 
 - 配置pacman
 
-    ```sh
-    # 修改/etc/pacman.d/mirrorlist
-    echo 'Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
-	```
+    下面是将pacman的`/etc/pacman.d/mirrorlist`文件所有内容替换 , 但是你可能因为网络原因无法使用这个源. 那么你需要到[archlinux-pacman-mirrorlist](https://archlinux.org/mirrorlist/?country=all&protocol=http&protocol=https&ip_version=4)寻找你能使用的源, 然后修改本地的`/etc/pacman.d/mirrorlist`文件, 可以存放多个(每一个源都是一行否则会报错), 连接速度越快的放越上面.
 
     ```sh
-    # 修改/etc/pacman.conf
+    echo 'Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
+    ```
+
+    AUR[非官方用户仓库](https://wiki.archlinuxcn.org/wiki/%E9%9D%9E%E5%AE%98%E6%96%B9%E7%94%A8%E6%88%B7%E4%BB%93%E5%BA%93)配置.
+
+    ```sh
     echo '[multilib]
     Include = /etc/pacman.d/mirrorlist'>>/etc/pacman.conf
     echo '[archlinuxcn]
     SigLevel = Optional TrustAll
     Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch'>>/etc/pacman.conf
-	```
+    ```
+
+     更新pacman
 
     ```sh
-    # 更新pacman
     sudo pacman -Syy
     sudo pacman -S archlinuxcn-keyring
     ```
@@ -51,7 +54,7 @@ waybar启动后的效果。
     sudo pacman -S hyprland-git
     # 安装项目需要的软件
     sudo pacman -S swaybg-git mpd mpc ncmpcpp pulseaudio grim bluez bluez-utils ulseaudio-bluetooth fcitx5-im fcitx5-pinyin-zhwiki swayidle alacritty-git pcmanfm brightnessctl pulseaudio paru-git ttf-monaco ttf-jetbrains-mono-nerd git mako libnotify wlogout zsh
-    oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions keyd
+    oh-my-zsh-git autojump zsh-syntax-highlighting zsh-autosuggestions keyd yad
     
     paru -S rofi-lbonn-wayland-only-git mpvpaper-git
     ```
@@ -75,6 +78,8 @@ waybar启动后的效果。
     - grim截图
     
     - wlogout这个是waybar右上角的开始按钮用的
+    
+    - yad是wlogout需要i使用的工具
     
     - rofi-lbonn-wayland-only-git软件启动器
     
@@ -153,8 +158,7 @@ waybar启动后的效果。
   $mainMod,J # 切换窗口分割方向
   $mainMod,F # 窗口全屏
   ######## waybar
-  $mainMod,B # 启动waybar
-  $mainMod SHIFT,B # 关闭启动waybar
+  $mainMod,B # 启动/关闭waybar
   ######## 屏幕
   $mainMod,[ # 屏幕亮度减少
   $mainMod,] # 屏幕亮度增加
@@ -252,7 +256,7 @@ waybar启动后的效果。
    f=`find “~/music” -name "**.lrc" | grep $1 | grep $2`
    ```
 
-   **注意：该脚本只限于`.lrc`歌词文件, 并且当音乐暂停时歌词会消失，所以为把Arch的图标改成里`暂停/开始`音乐。如果歌曲没有找到歌词，那么会显示乱码，如果你有好的办法可以分享一下。**
+   **注意：该脚本只限于`.lrc`歌词文件, 并且当音乐暂停时歌词会消失，所以为把Arch的图标改成里`暂停/开始`音乐。如果歌曲没有找到歌词，那么会显示歌名，如果你有好的办法可以分享一下。**
 
 2. waybar崩溃
 
@@ -262,26 +266,26 @@ waybar启动后的效果。
 
 3. obs录屏问
 
-   1. 问题:obs安装后没有`屏幕采集` 
+   - 问题:obs安装后没有`屏幕采集` 
 
-      ```sh
-      # 安装
-      sudo pacman -S pipewire pipewire-pulse wireplumber xdg-desktop-portal xdg-desktop-portal-hyprland-git obs-studio-git
-      # 修改hyprland配置
-      exec-once = systemctl --user import-environment WAYLAND_DISPLAY
-      # 重启
-      ```
+   ```sh
+   # 安装
+   sudo pacman -S pipewire pipewire-pulse wireplumber xdg-desktop-portal xdg-desktop-portal-hyprland-git obs-studio-git
+   # 修改hyprland配置
+   exec-once = systemctl --user import-environment WAYLAND_DISPLAY
+   # 重启
+   ```
    
-   2. 问题:obs有`屏幕采集`,但是采集的是黑屏
+   - 问题:obs有`屏幕采集`,但是采集的是黑屏
    
-      ```sh
-      # 这个需要修改配置文件
-      # 这个是全局生效:/usr/share/applications/com.obsproject.Studio.desktop
-      # 当前用户生效: ~/.local/share/applications/com.obsproject.Studio.desktop
-      # 修改里面Exec的参数,原本应该是obs,在后面加个 -platform wayland即可
-      Exec=obs -platform wayland
-      # 重启/注销
-      ```
+   ```sh
+   # 需要修改配置文件
+   # 这个是全局生效:/usr/share/applications/com.obsproject.Studio.desktop
+   # 当前用户生效: ~/.local/share/applications/com.obsproject.Studio.desktop
+   # 修改里面Exec的参数,原本应该是obs,在后面加个 -platform wayland即可
+   Exec=obs -platform wayland
+   # 重启/注销
+   ```
 
 # 参考文档
 

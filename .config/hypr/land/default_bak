@@ -19,41 +19,36 @@ input { # 输入相关.除了个鼠标加速其他默认就行
     #   accel_profile = flat    # 禁用鼠标加速
 }
 
-general {
-    gaps_in = 8
-    gaps_out = 14
-    border_size = 4
-    col.active_border = rgba(b4637aff) rgba(d7827eff) 45deg
-    col.inactive_border = rgba(286983cc) rgba(56949fcc) 45deg
-    layout = master
-    resize_on_border = true
+general { # 常规动画配置
+    gaps_in =   5       # 窗口与窗口之间的间隙
+    gaps_out = 10       # 窗口与屏幕边框的间隙
+    border_size = 3     # 窗口边框大小
+    col.active_border = rgba(33ccffee) rgba(00ff99ee) 45deg # 活动窗口的颜色
+  # col.active_border =    rgba(cceeffbb) 
+    col.inactive_border = rgba(595959aa) # 非活动窗口的颜色
+
+    layout = master    # 布局 
+
+    allow_tearing = true
 }
 
-group {
-    col.border_active = rgba(b4637aff) rgba(d7827eff) 45deg
-    col.border_inactive = rgba(286983cc) rgba(56949fcc) 45deg
-    col.border_locked_active = rgba(b4637aff) rgba(d7827eff) 45deg
-    col.border_locked_inactive = rgba(286983cc) rgba(56949fcc) 45deg
-}
-
-decoration {
-    rounding = 12
-    drop_shadow = true
-    shadow_ignore_window = true
-    shadow_offset = 6 6
-    shadow_range = 3
-    shadow_render_power = 4
-    col.shadow = 0xff26233a
-
+decoration { # 装饰
+    rounding = 12   # 窗口圆角半径
     blur {
-        enabled = yes
-        size = 6
-        passes = 3
-        new_optimizations = on
-        ignore_opacity = on
-        xray = false
+        enabled = true  # 启用窗口模糊
+        size = 2       # 模糊大小
+        passes = 2      # 越大就越模糊
+        new_optimizations = true # 模糊优化
+        # vibrancy = 0.1696   # 模糊颜色饱和度
+        # noise=0.12  # 越大就约模糊还会增加白点
     }
+
+    drop_shadow = false  # 是否启用阴影
+    shadow_range = 10    # 窗口边框的阴影大小
+    shadow_render_power = 2 # 边框阴影的渐变色,越小就越大
+    col.shadow = rgb(000000) # 阴影的颜色
 }
+
 animations {   # 动画
     enabled = true  # 是否启动动画
 
