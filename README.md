@@ -137,7 +137,69 @@ waybar启动后的效果。
 	sudo systemctl start bluetooth
 	```
 	
-	
+- 如果你是Nvidia显卡(hyprland官方提供的方法[hyprland-Nvidia](https://wiki.hyprland.org/Nvidia/))
+
+  - 安装
+
+    ```sh
+    sudo pacman -S nvidia-dkms
+    ```
+
+  - 修改grub文件`/etc/default/grub`
+
+    ```sh
+    # 修改配置文件/etc/default/grub
+    # vim /etc/default/grub
+    # 修改'GRUB_CMDLINE_LINUX_DEFAULT'参数,添加参数'nvidia_drm.modeset=1'
+    # 例如:
+    GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet nvidia_drm.modeset=1"
+    # 然后执行命令
+    grub-mkconfig -o /boot/grub/grub.cfg
+    ```
+
+  - 修改配置文件`/etc/mkinitcpio.conf`
+
+    ```sh
+    # vim /etc/mkinitcpio.conf
+    # 修改'MODULES'参数,添加'nvidia nvidia_modeset nvidia_uvm nvidia_drm'到里面
+    # 例如:
+    MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
+    # 运行下面的命令
+    sudo pacman -S linux-headers
+    mkinitcpio --config /etc/mkinitcpio.conf --generate /boot/initramfs-custom.img
+    ```
+
+  - 添加一个文件`/etc/modprobe.d/nvidia.conf`(默认应该是不存在的)
+
+    ```sh
+    # 添加下面一行参数
+    echo 'options nvidia-drm modeset=1' > /etc/modprobe.d/nvidia.conf
+    ```
+
+  - 修改`hyprland`配置文件`${HOME}/.config/hypr/hyprland.conf`(默认是这个)
+
+    ```sh
+    # 添加hyprland环境变量
+    env = LIBVA_DRIVER_NAME,nvidia
+    env = XDG_SESSION_TYPE,wayland
+    env = GBM_BACKEND,nvidia-drm
+    env = __GLX_VENDOR_LIBRARY_NAME,nvidia
+    env = WLR_NO_HARDWARE_CURSORS,1
+    # 注意(官网的):
+    #		如果在Firefox中遇到崩溃,那就删除'env = GBM_BACKEND,nvidia-drm'这一行
+    # 		如果遇到Discord窗口无法显示或屏幕共享在Zoom中不起作用的问题,那就删除或注释该行'env = __GLX_VENDOR_LIBRARY_NAME,nvidia'
+    ```
+
+  - 安装一些工具
+
+    ```sh
+    # 官方文档写的 , 没有好像影响也不大 , 可能我没有用electron框架开发的软件的原因把
+    sudo pacman -S qt5-wayland qt5ct libva libva-nvidia-driver-git
+    ```
+
+  - 其他参考官网:[hyprland-Nvidia](https://wiki.hyprland.org/Nvidia/)
+
+  
 
 # 按键
 
