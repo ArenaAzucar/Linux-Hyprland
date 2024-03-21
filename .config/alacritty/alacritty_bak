@@ -1,0 +1,72 @@
+live_config_reload = true
+
+[colors.bright]
+black = "#5c6370"
+blue = "#61afef"
+cyan = "#56b6c2"
+green = "#98c379"
+magenta = "#c678dd"
+red = "#e06c75"
+white = "#ECEFF4"
+yellow = "#d19a66"
+
+[colors.normal]
+black = "#3B4252"
+blue = "#81A1C1"
+cyan = "#88C0D0"
+green = "#A3BE8C"
+magenta = "#B48EAD"
+red = "#BF616A"
+white = "#abb2bf"
+yellow = "#EBCB8B"
+
+[colors.primary]
+background = "#1e2127"
+foreground = "#D8DEE9"
+
+[font]
+size = 15.0
+
+[font.bold]
+family = "Monaco"
+#family = "Source Code Pro"
+style = "Bold"
+
+[font.bold_italic]
+family = "Monaco"
+#family = "Source Code Pro"
+style = "Bold Italic"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.italic]
+#family = "Source Code Pro"
+family = "Monaco"
+style = "Italic"
+
+[font.normal]
+family = "Monaco"
+#family = "Source Code Pro"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[scrolling]
+history = 10000
+multiplier = 10
+
+[selection]
+save_to_clipboard = true
+semantic_escape_chars = ",│`|:\"' ()[]{}<>"
+
+[window.padding]
+x = 2
+y = 2
+
+[window]
+# 透明度
+opacity = 0.8

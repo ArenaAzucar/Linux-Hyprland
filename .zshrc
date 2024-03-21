@@ -6,12 +6,21 @@ ZSH=/usr/share/oh-my-zsh/
 
 
 export LANG=zh_CN.UTF-8
+
+export QT_QPA_PLATFORM=wayland
+
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+#
+ 
 # ZSH_THEME="agnoster"
-ZSH_THEME="ys"
+# ZSH_THEME="ys"
+ZSH_THEME="theunraveler"
+
+
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -163,10 +172,11 @@ waybar不显示音量，或无法调节音量：
 function set_wayland_env
  {
  cd ${HOME}
+ export LANG=zh_CN.UTF-8
  export QT_AUTO_SCREEN_SCALE_FACTOR=1
  export QT_QPA_PLATFORM="wayland;xcb"
  export QT_WAYLAND_DISABLE_WINDOWDECORATION=1
- export QT_QPA_PLATFORMTHEME=qtct
+ export QT_QPA_PLATFORMTHEME=qt5ct
 
  export SDL_VIDEODRIVER=wayland
  export _JAVA_AWT_WM_NONEREPARENING=1

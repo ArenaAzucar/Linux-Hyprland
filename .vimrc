@@ -35,7 +35,7 @@ syntax on
 " 显示行号
 set number
 " 行号 特殊
-set relativenumber
+" set relativenumber
 " 自动换行
 set wrap
 " vim普通模式下命令提示
@@ -130,7 +130,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'w0rp/ale'
     
     " 代码补全，非常强大，必装
-"    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    " Plug 'neoclide/coc.nvim', {'branch': 'release'}
  
     " coc 代码片段补全
 "    Plug 'honza/vim-snippets'
@@ -145,7 +145,7 @@ call plug#begin('~/.vim/plugged')
     " Python
     Plug 'vim-scripts/indentpython.vim'
     Plug 'vim-python/python-syntax'
-"    Plug 'yaegassy/coc-pylsp', {'do': 'yarn install --frozen-lockfile'}
+    " Plug 'yaegassy/coc-pylsp', {'do': 'yarn install --frozen-lockfile'}
 
     " Markdown提示以及可视化
     Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install_sync() }, 'for' :['markdown', 'vim-plug'] }

@@ -1758,3 +1758,37 @@ Mar 21 03:39 : player: played "ÖÜ½ÜÂ×-¡¶Äï×Ó¡· ÎÞËðÒôÀÖÃ�
 Mar 21 03:44 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Mar 21 03:45 : player: played "ÖÜ½ÜÂ×-¡¶°²¾²¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
 Mar 21 03:49 : player: played "退后-周杰伦.flac"
+Mar 21 07:24 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Mar 21 09:07 : player: played "退后-周杰伦.flac"
+Mar 21 09:10 : player: played "退后-周杰伦.flac"
+Mar 21 09:45 : player: played "退后-周杰伦.flac"
+Mar 21 10:21 : player: played "退后-周杰伦.flac"
+Mar 21 10:52 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 21 10:52 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 21 10:56 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 21 10:56 : player: played "ÖÜ½ÜÂ×-¡¶Ò¯Ò¯ÅÝµÄ²è¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 10:57 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 21 11:00 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 21 11:04 : player: played "ÖÜ½ÜÂ×-¡¶ËµºÃµÄÐÒ¸£ÄØ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:04 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Mar 21 11:07 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:09 : player: played "ÖÜ½ÜÂ×-¡¶ÆÑ¹«Ó¢µÄÔ¼¶¨¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:15 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 21 11:15 : player: played "ÖÜ½ÜÂ×-ÀËMÊÖJ.mp3"
+Mar 21 11:21 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:25 : player: played "ÁÖ¿¡½Ü-¡¶ÃÀÈËÓã¡· flacÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:28 : player: played "ÖÜ½ÜÂ×-¡¶½«¾ü¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:33 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 21 11:33 : player: played "ÖÜ½ÜÂ×-¡¶°ëµºÌúºÐ¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:39 : player: played "ÖÜ½ÜÂ×-¡¶Ó¡µÚ°²ÀÏ°ßð¯¡·flacÎÞËð¸èÇúÔÚÏßÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:43 : player: played "ÖÜ½ÜÂ×-¡¶Ã÷Ã÷¾Í¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:46 : player: played "ÖÜ½ÜÂ×-¡¶ÃÀÈËÓã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:51 : player: played "ÖÜ½ÜÂ×-ºÚÉ«MÒÂ.mp3"
+Mar 21 11:55 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 21 11:56 : player: played "ÖÜ½ÜÂ×-¡¶Ë«µ¶¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 11:56 : output: Failed to play on "pulse audio" (pulse): suspended
+Mar 21 18:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Mar 21 18:22 : player: played "ÖÜ½ÜÂ×-¡¶ÉÏº£Ò»¾ÅËÄÈý¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 18:27 : player: played "ÖÜ½ÜÂ×-¡¶ºì³¾¿ÍÕ»¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ.flac"
+Mar 21 18:31 : player: played "ÖÜ½ÜÂ×-¡¶·ã¡· ÎÞËðÒôÀÖÃâ·ÑÏÂÔØ 16bit_4.41khz_flac.flac"
+Mar 21 18:35 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
