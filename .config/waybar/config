@@ -16,8 +16,8 @@
 		/*}*/
 
         //"scroll-step": 1,
-        "format": "{icon} {volume}%",
-        "format-bluetooth": "{icon} {volume}%",
+        "format": "{icon}  {volume}%",
+        "format-bluetooth": "{icon}  {volume}%",
         "format-muted": "",
         "format-icons": {
             "headphones": "",
@@ -49,10 +49,11 @@
 		"tooltip": true,
         "interval":1,
 		/*"format-wifi": "  {bandwidthUpBytes}\uf062 \uf063 {bandwidthDownBytes}",*/
-		"format-wifi":"  {bandwidthTotalBytes}",
+		"format-wifi":"   {bandwidthTotalBytes}",
         "format-ethernet": "",
         "tooltip-format-wifi":"{essid}",
-        "tooltip-format-ethernet":"{ifname}"
+        "tooltip-format-ethernet":"{ifname}",
+        "on-click":"sh ~/.config/waybar/scripts/vpn-warp.sh"
 	},
 	"backlight": {
 		"tooltip": false,
@@ -69,7 +70,7 @@
             "warning": 30,
             "critical": 20
         },
-        "format": "{icon} {capacity}%",
+        "format": "{icon}  {capacity}%",
         "format-charging": " {capacity}%",
         "format-plugged": " {capacity}%",
         "format-alt": "{time} {icon}",
@@ -86,12 +87,12 @@
     },
     "cpu": {
         "interval": 5,
-        "format": " {}%",
+        "format": "  {}%",
         "max-length": 10
     },
     "memory": {
         "interval": 30,
-        "format": " {}%",
+        "format": "  {}%",
         "max-length": 10
     },
     "custom/launcher":{
